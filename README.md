@@ -1,24 +1,31 @@
-# DIET_PLAN_GENERATOR
-A web-based Smart Meal Customizer that generates personalized diet plans based on age, gender, weight, dietary preference, and health conditions.
+# 🥗 DIET PLAN GENERATOR
 
-# 🥗 Smart Meal Customizer
+This is a simple web-based **Diet Plan Generator** that helps users view a precise and balanced diet plan.
 
-A simple web application that generates a personalized diet plan based on user inputs such as age, gender, weight, meal preference (veg/non-veg), and existing health conditions.
+## 🚀 Live Demo
 
-## 🌟 Features
+🔗 [View Site](https://sakethyorog.github.io/DIET_PLAN_GENERATOR/)
 
-- User-friendly form to input personal and dietary details
-- Dynamic diet plan generation based on:
-  - Age group
-  - Weight category
-  - Health conditions (e.g., diabetes, heart issues, obesity, etc.)
-  - Meal type (vegetarian or non-vegetarian)
-- Real-time feedback without page reload
-- Responsive and clean UI
+## 📁 Project Structure
 
-## 🛠️ Built With
+- `index.html` – The main HTML file containing the UI and diet details.
 
-- **HTML5** – For structuring the web page
-- **CSS3** – For styling the layout and form elements
-- **JavaScript (Vanilla JS)** – For input handling and diet logic
+## 💡 Features
 
+- Clean and responsive layout
+- Static meal plans with easy-to-read table formatting
+- Simple and fast deployment using GitHub Pages
+
+## 🛠️ How to Use
+
+1. Clone the repository or download the ZIP.
+2. Open `index.html` in your browser.
+3. Or simply access the **live site** above.
+
+## 👨‍💻 Author
+
+- [Saketh Ram](https://github.com/sakethyorog)
+
+---
+
+✅ Built with 💚 using HTML only
